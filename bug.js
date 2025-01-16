@@ -1,0 +1,1 @@
+This bug occurs when using the Expo's Camera API with custom styling.  The issue manifests as the camera preview not rendering correctly, or appearing distorted. This is often due to the interaction between the Camera component's styling and its underlying implementation. The preview might be partially or completely hidden, resized incorrectly, or overlap with other UI elements.
